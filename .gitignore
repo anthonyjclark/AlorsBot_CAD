@@ -2,6 +2,4 @@
 *.lck
 
 #OldVersions Folders
-\\inventor\\assemblies\\OldVersions
-\\inventor\\parts\\wheel\\OldVersions
-\\inventor\\parts\\wheel\\printPrototypes\\OldVersions
+**/OldVersions
