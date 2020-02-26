@@ -21,12 +21,10 @@ This repository contains the parts designed for the AlorsBot.
 │   │── wheel.ipj
 │   │── README.md
 │   └── parts
-│       │── chassis
-│       └── wheel
-│           ├── printPrototypes
-│           │   └── *.ipt
-│           │── *.ipt
-│           └── README.md
+│       ├── printPrototypes
+│       │   └── *.ipt
+│       │── *.ipt
+│       └── README.md
 ├── stl 
 │   ├── prototypes
 │   │   └── *.stl
